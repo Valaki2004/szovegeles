@@ -7,12 +7,16 @@ document.getElementById("button").addEventListener("click", () => {
     console.log(typeof szam)
     console.log(typeof matek)
 })
-if(szam <= 1){
+if(num == 1){
     console.log("Jó")
 }
-else{
+else if(num == 10){
     console.log("Nem jó")
 }
+else{
+    console.log("Ismeretlen")
+}
+
 
 
 
