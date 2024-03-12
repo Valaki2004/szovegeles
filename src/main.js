@@ -15,3 +15,4 @@ function Cut(str) {
     str.lastIndexOf(", "));
 }
 console.log(Cut("szoveg"));
+
