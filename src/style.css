@@ -1,0 +1,9 @@
+body{
+    background-image: -webkit-linear-gradient(bottom,red,green,blue);
+}
+.container{
+    height: 1000px;
+    width: 1000px;
+    color: white;
+    text-align: center;
+}
